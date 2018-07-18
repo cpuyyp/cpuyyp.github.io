@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More posts in coming
+comments: true
 ---
 
 I am a newbie in DL\ML. I will post more paper reviews in this blog in the future. Your suggestion and comments are welcomed and appreciated!
