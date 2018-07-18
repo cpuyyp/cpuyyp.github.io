@@ -11,7 +11,7 @@ A first year Ph.D. in Computational Science. Enthusiastic about all kinds of nov
 - **Florida State University** (2017 - present)  
 Puesueing a PhD in Computational Science. Currently doing research with [Dr. Erlebacher](https://www.sc.fsu.edu/people?uid=gerlebacher). Specialize in email forensic, NLP and Deep NN architecture.
 - **Beihang University** (2013 - 2017)  
-Get my bachelor's degree in mechanical engineering. Graduation project:
+Got my bachelor's degree in mechanical engineering. Graduation project: Inverse Input Prediction Model for Robotic Belt Grinding. 
 
 ### Contact me
 

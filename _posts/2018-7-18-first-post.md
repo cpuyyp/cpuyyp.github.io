@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More posts in coming
+title: More posts incoming
 comments: true
 ---
 
