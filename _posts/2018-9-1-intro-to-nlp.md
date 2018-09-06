@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Enron Network analysis
+title: Intro to nlp
 comments: true
 ---
